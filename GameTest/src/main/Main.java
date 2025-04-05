@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 
 public class Main {
 int a;
-int b;
+int bc;
 int c;
 int ye;
 	public static void main(String[] args) {
