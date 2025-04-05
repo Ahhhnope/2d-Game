@@ -8,6 +8,7 @@ public class Main {
 int a;
 int bc;
 int c;
+int nigga;
 int ye;
 	public static void main(String[] args) {
 		JFrame window = new JFrame();
