@@ -5,6 +5,8 @@ import java.awt.event.WindowFocusListener;
 import javax.swing.JFrame;
 
 public class Main {
+int a;
+int b;
 int ye;
 	public static void main(String[] args) {
 		JFrame window = new JFrame();
